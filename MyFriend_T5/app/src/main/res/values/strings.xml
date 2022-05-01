@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Friend_T5</string>
+    <string name="guide_text">Click item for actions, (+) to create new friend</string>
+</resources>

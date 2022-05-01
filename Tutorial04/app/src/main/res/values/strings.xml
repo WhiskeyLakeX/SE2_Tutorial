@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Tube</string>
+    <string name="welcome_text">Welcome!</string>
+    <string name="text_onscreen">Enter link to video then click "Play"</string>
+    <string name="link_field">Link to video</string>
+</resources>
+

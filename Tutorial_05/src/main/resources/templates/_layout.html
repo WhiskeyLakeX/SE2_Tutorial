@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org"
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout">
+<head>
+    <meta charset="UTF-8">
+
+    <link rel="stylesheet" type="text/css" th:href="@{/webjars/bootstrap/css/bootstrap.min.css}"/>
+</head>
+<body>
+<nav>
+    <div class="logo">
+        <h4>Employee Management</h4>
+    </div>
+    <ul>
+        <li>
+            <a href="/">Home</a>
+        </li>
+        <li>
+            <a href="/employees">Employees</a>
+        </li>
+        <li>
+            <a href="/companies">Companies</a>
+        </li>
+    </ul>
+</nav>
+<div layout:fragment="content">
+</div>
+</body>
+</html>

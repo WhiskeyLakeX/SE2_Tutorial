@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Tutorial02_SE2_Final:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>false</exploded>
+        <module>Tutorial02_SE2_Final</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="archive" name="Tutorial02_SE2_Final-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Tutorial02_SE2_Final:war exploded" />
+    </root>
+  </artifact>
+</component>

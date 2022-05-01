@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Language Preferences</string>
+    <string name="lang_vi">Vietnamese</string>
+    <string name="lang_eng">English</string>
+</resources>
